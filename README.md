@@ -2,7 +2,7 @@
 
 Descriere 
 
-  Aplicatia permite utilizatorului sa aduage produse in  3 categorii diferite (Alimente,Ingrijire Personala).
+  Aplicatia permite utilizatorului sa adauge  produse in  3 categorii diferite (Alimente,Ingrijire Personala).
 Prin butonul de adaugare produse o fereastra se va deschide care permite adaugarea de noi produse in lista.
 Pretul total este calculat automat si afisat in interfata.
 
